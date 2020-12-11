@@ -352,3 +352,6 @@ MigrationBackup/
 .history
 yarn.lock
 .vscode/launch.json
+
+tmp/*
+!tmp/.gitkeep
